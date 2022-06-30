@@ -1,0 +1,178 @@
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+body {
+    background: #FFEFBA;
+    background: -webkit-linear-gradient(to left, #FFFFFF, #FFEFBA);
+    background: linear-gradient(to left, #FFFFFF, #FFEFBA);
+    header {
+        justify-content: space-between; 
+        align-items: center; 
+        padding: 2rem;
+        background: #fceabb;
+        background: -webkit-linear-gradient(to left, #f8b500, #fceabb); 
+        background: linear-gradient(to left, #f8b500, #fceabb);
+    }
+    footer {
+        background: #fceabb;
+        background: -webkit-linear-gradient(to left, #f8b500, #fceabb);
+        background: linear-gradient(to left, #f8b500, #fceabb);      
+        padding-bottom: 2rem;
+        padding-top: 2rem;
+        justify-content: center;
+    }
+}
+
+INICIO
+
+.section-1 {
+    background: #FFEFBA;
+    background: -webkit-linear-gradient(to left, #FFFFFF, #FFEFBA);
+    background: linear-gradient(to left, #FFFFFF, #FFEFBA);
+    align-items: center;
+    padding-top: 40px;
+    padding-bottom: 10px;
+    div {
+        align-items: center;
+        padding-left: 1rem;
+        padding-right: 8px;
+    }
+        .title { 
+            text-transform: uppercase;
+            padding-top: 1rem;
+            text-shadow: 3px 3px white;
+        }
+        .text {
+            font-family: serif;
+        }
+        img {     border-radius: 1rem;
+            height: 250px;
+            width: 350px;
+        }
+        img:hover {
+            filter: opacity(0.9);
+            transform: scale(1.04);
+        } 
+}
+.section-2 {
+    background: #FFEFBA;
+    background: -webkit-linear-gradient(to left, #FFFFFF, #FFEFBA);
+    background: linear-gradient(to left, #FFFFFF, #FFEFBA);
+    align-items: center;
+    padding-top: 40px;
+    padding-top: 40px;
+    padding-bottom: 10px;
+    .title {
+        text-transform: uppercase;
+        padding-top: 1rem;
+        text-shadow: 3px 3px white;
+    }
+    .text {
+        font-family: serif;
+    }
+    img {     border-radius: 1rem;
+        height: 250px;
+        width: 350px;
+    }
+    img:hover {
+        filter: opacity(0.9);
+        transform: scale(1.04);
+    } 
+}
+
+GALERÍA
+
+ADOPTA
+
+form {
+    background: #ECE9E6;
+    background: -webkit-linear-gradient(to right, #FFFFFF, #ECE9E6);
+    background: linear-gradient(to right, #FFFFFF, #ECE9E6);
+    font-family: serif;
+}
+
+SOBRE NOSOTROS
+
+.section-1 {
+    background: #FFEFBA;
+    background: -webkit-linear-gradient(to left, #FFFFFF, #FFEFBA);
+    background: linear-gradient(to left, #FFFFFF, #FFEFBA);
+    align-items: center;
+    padding-top: 60px;
+    padding-bottom: 10px;
+    div {
+        align-items: center;
+        padding-left: 1rem;
+        padding-right: 8px;
+    }
+        div {
+        }
+            .title { 
+                text-transform: uppercase;
+                padding-top: 1rem;
+                text-shadow: 3px 3px white;
+            }
+            .text {
+                font-family: serif;
+            }
+            img {
+                border-radius: 1rem;
+                height: 250px;
+                width: 350px;
+            }
+            img:hover {
+                filter: opacity(0.9);
+                transform: scale(1.04);
+            } 
+}
+.section-2 {
+    background: #FFEFBA;
+    background: -webkit-linear-gradient(to left, #FFFFFF, #FFEFBA);
+    background: linear-gradient(to left, #FFFFFF, #FFEFBA);
+    align-items: center;
+    padding-top: 40px;
+    padding-top: 40px;
+    padding-bottom: 10px;
+        .title {
+            text-transform: uppercase;
+            padding-top: 1rem;
+            text-shadow: 3px 3px white;
+        }
+        .text {
+            font-family: serif;
+        }
+        img {
+            border-radius: 1rem;
+            height: 250px;
+            width: 350px;
+        }
+        img:hover {
+            filter: opacity(0.9);
+            transform: scale(1.04);
+        } 
+}
+
+CENTRO DE AYUDA
+
+.section-1 {
+    background: #FFEFBA;
+    background: -webkit-linear-gradient(to left, #FFFFFF, #FFEFBA);
+    background: linear-gradient(to left, #FFFFFF, #FFEFBA);
+    align-items: center;
+    padding-top: 60px;
+    padding-bottom: 10px;
+    div {
+        align-items: center;
+        padding-left: 1rem;
+        padding-right: 8px;
+    }
+        div {
+        }
+            .title { 
+                text-transform: uppercase;
+                padding-top: 1rem;
+                text-shadow: 3px 3px white;
+            }
+            .text {
+                font-family: serif;
+            }
+}
